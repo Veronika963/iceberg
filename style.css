@@ -1,0 +1,16 @@
+.block-first {
+    background-color: #74BAEA;
+    height: 50vh;
+}
+
+.block-second {
+    background-color: #3449D0;
+    height: 50vh;
+}
+
+.iceberg {
+    position: absolute;
+    top: 93px;
+    left: 50%;
+    transform: translateX(-50%);
+}
